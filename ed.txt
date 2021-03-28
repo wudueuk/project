@@ -1,2 +1,3 @@
 this filename: ed.txt
 add new line
+some content
